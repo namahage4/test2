@@ -1,0 +1,28 @@
+.header{
+    background: white;
+}
+.header__inner{
+    margin: 0 auto;
+    display: flex;
+    max-width: 1515px;
+    height: 100px;
+    border-bottom: 1px solid #E0DFDE;
+}
+.header__logo{
+    margin: 0 auto;
+    color: #8B7969;
+    text-decoration: none;
+    padding-top: 40px;
+    font-size: 24px;
+}
+.header-nav__item{
+    width: 100px;
+    height: 34px;
+    border: 1px solid #D9C6B5;
+    background: #f0efef;
+    margin-top: 40px;
+}
+.header-nav__link{
+    color: #f1dddd;
+    text-decoration: none;
+}

@@ -1,0 +1,23 @@
+.register__content{
+    margin: 0 auto;
+    max-width: 1515px;
+    background: #f1dddd;
+}
+.content__header{
+    text-align: center;
+    color: #8B7969;
+}
+.register-form__table{
+    margin: 0 auto;
+    width: 738px;
+    height: 644px;
+    background: white;
+}
+.register-form__table--inner{
+    margin: 0 auto;
+    width: 445px;
+    height: 396px;
+}
+.register-form__table--input{
+    width: 455px;
+}

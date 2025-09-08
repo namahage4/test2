@@ -1,0 +1,22 @@
+main{
+    background: #d3ccc5;
+}
+
+
+.content__header{
+    margin: 0 auto;
+    width: 93px;
+    height: 46px;
+    color: #8B7969;
+}
+.login-form{
+    margin: 0 auto;
+    width: 736px;
+    height: 579px;
+    background: white;
+}
+.login-form__table--btn-submit{
+    background: #82756A;
+    color: white;
+    padding: 10px 40px;
+}
